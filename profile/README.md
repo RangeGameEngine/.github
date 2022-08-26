@@ -1,1 +1,1 @@
-<img src="https://github.com/RangeGameEngine/Range-Engine/blob/RangeEngine1.0/release/datafiles/splash.png?raw=true" alt="Homepage Cover" />
+<img src="splash_2x.png" alt="Homepage Cover" />
