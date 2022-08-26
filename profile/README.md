@@ -1,1 +1,1 @@
-<img src="splash_2x.png" alt="Homepage Cover" />
+<img src="splash.png" alt="Homepage Cover" />
